@@ -1,0 +1,11 @@
+# made per video, never committed
+node_modules
+data.js
+words.json
+ev.json
+voice.wav
+mix.wav
+mix_raw.wav
+*.mp4
+sheet/
+sheet.jpg
